@@ -305,12 +305,14 @@ html {
 .myAvtar {
   justify-content: center !important;
   padding-top: 9em !important;
+  border-radius: 25px;
 }
 
 @media (max-width: 767px) {
   .myAvtar {
     padding-top: 2em !important;
     padding-bottom: 2em !important;
+    border-radius: 25px;
   }
 }
 
@@ -734,4 +736,8 @@ html {
 }
 .fork-btn-inner::after {
   display: none !important;
+}
+
+.borderRadius {
+  border-radius: 115px;
 }
