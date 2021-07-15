@@ -9,11 +9,12 @@ function Type() {
           "Software Engineer",
           "Web Developer",
           "Full-Stack Developer",
+          "All-Around Good Guy",
         
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 20,
       }}
     />
   );
