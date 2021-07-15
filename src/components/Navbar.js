@@ -93,7 +93,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blogs.soumyajit.tech/"
+                href="https://petes-devblog.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
