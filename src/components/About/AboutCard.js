@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+import { FaRunning, FaPlane } from "react-icons/fa";
+import { GiRetroController } from "react-icons/gi";
 
 function AboutCard() {
   return (
@@ -8,30 +9,32 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            Hi Everyone, I am <span className="purple">Peter Sekesan </span>
+            from <span className="purple"> New York.</span>
+            <br />I am a software engineer in the midst of a career change from the marketing world.
             <br />
+            In May of 2020, my career in Events Marketing and Management came to an end due to the some mass layoffs at my company. I took the time (and severance which was certainly helpful) to re-focus a bit and decided to finally pursue my intrigue for programming into a career. I did a couple of FreeCodeCamp.org exercises and was instantly hooked. I then enrolled and later graduated from a 6-month long intensive Software Engineering boot camp. Since then I have been working on some side projects as well as my current role as Frontend UI Engineer.
+
+
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <FaPlane /> Traveling
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
+              <FaRunning /> Exercising
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <GiRetroController /> Playing Games
             </li>
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "It's kind of fun to do the impossible."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Walt Disney</footer>
         </blockquote>
       </Card.Body>
     </Card>
