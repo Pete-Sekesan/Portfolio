@@ -47,7 +47,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Gatsby.js</b>
+                <b className="purple"> React.js, jQuery and Gatsby.js</b>
               </i>
             </p>
           </Col>
