@@ -11,7 +11,7 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #c770f0;
+  --imp-text-color: #087E8B;
 }
 
 .purple {
@@ -53,18 +53,18 @@ html {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #2d1950;
+  background: #292929;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(69, 8, 109, 0.959);
+  background: #03343A;
   border-radius: 12px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(222, 130, 235, 0.911);
+  background: #087E8B;
   border-radius: 12px;
 }
 
@@ -72,7 +72,7 @@ html {
 /* Navbar Section  */
 /* --------- */
 .sticky {
-  background-color: #212038d8 !important;
+  background-color: #3C3C3C !important;
   transition: all 0.3s ease-out 0s !important;
   box-shadow: 0px 10px 10px 0px rgba(9, 5, 29, 0.171) !important;
   backdrop-filter: blur(15px) !important;
@@ -94,7 +94,7 @@ html {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: #be50f4 !important;
+  background-color: #087E8B !important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -141,7 +141,7 @@ html {
   .navbar {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
-    background-color: #181a27 !important;
+    background-color: #3C3C3C !important;
   }
   .navbar-nav .nav-item a::after {
     display: none !important;
@@ -191,7 +191,7 @@ html {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #c95bf5;
+  background: #087E8B;
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -278,17 +278,17 @@ html {
 }
 
 .main-name {
-  color: #cd5ff8;
+  color: #0CC0D4;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #be6adf !important;
+  color: #0CC0D4 !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #b562d6 !important;
+  color: #0DD2E7 !important;
 }
 
 @media (max-width: 767px) {
