@@ -37,7 +37,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
+          <p style={{ marginBlockEnd: 0, color: "#087E8B" }}>
             "It's kind of fun to do the impossible."{" "}
           </p>
           <footer className="blockquote-footer">Walt Disney</footer>

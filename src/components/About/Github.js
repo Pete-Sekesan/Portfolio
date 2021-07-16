@@ -6,11 +6,11 @@ function Github() {
   const colourTheme = {
     background: "transparent",
     text: "#ffffff",
-    grade4: "#8400b8",
-    grade3: "#b22ff4",
-    grade2: "#b265f6",
-    grade1: "#c084f5",
-    grade0: "#ecd9fc",
+    grade4: "#076974",
+    grade3: "#0A9DAE",
+    grade2: "#0DD2E7",
+    grade1: "#78EAF7",
+    grade0: "#ECFCFE",
   };
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
