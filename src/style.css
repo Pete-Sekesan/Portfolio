@@ -450,7 +450,8 @@ html {
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
+  /* background-image: var(--section-background-color) !important; */
+  background:#1F1F1F;
 }
 
 .project-card {
@@ -462,7 +463,7 @@ html {
 }
 
 .project-card-view {
-  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+  box-shadow: 0 4px 5px 3px #087E8B !important;
   color: white !important;
   background-color: transparent !important;
   opacity: 0.9 !important;
@@ -472,7 +473,7 @@ html {
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561) !important;
+  box-shadow: 0 4px 4px 5px #0BAFC1 !important;
 }
 
 .blog-card {
@@ -520,14 +521,17 @@ html {
 
 .btn-primary {
   color: #fff !important;
-  background-color: #623686 !important;
-  border-color: #623686 !important;
+  background-color: #087E8B !important;
+  border-color: #087E8B !important;
 }
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #6d20c5d7 !important;
-  border-color: #6d20c5d7 !important;
+  background-color: #087E8B !important;
+  border-color: #78EAF7 !important;
+ 
+  
+
 }
 .btn:focus {
   outline: none !important;
@@ -608,7 +612,8 @@ html {
   position: relative !important;
   padding-top: 110px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
+  background-color: #1F1F1F;
+  /* background-image: var(--section-background-color) !important; */
   color: white !important;
 }
 
@@ -646,14 +651,14 @@ html {
 .resume .resume-item {
   padding: 0 0 10px 25px;
   margin-top: -2px;
-  border-left: 2px solid #8a49a8;
+  border-left: 2px solid #087E8B;
   position: relative;
 }
 
 .resume .resume-item .resume-title {
   line-height: 18px;
   font-size: 0.9em;
-  background: #5234795d;
+  background: #087E8B;
   padding: 8px 15px;
   display: inline-block;
   font-weight: 600;
@@ -683,7 +688,7 @@ html {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #8a49a8;
+  border: 2px solid #087E8B;
 }
 
 .like-item {
