@@ -753,3 +753,6 @@ html {
   border-radius: 115px;
   border: solid 2.2px #087E8B;
 }
+.borderR {
+  border-radius: 55px;
+}
