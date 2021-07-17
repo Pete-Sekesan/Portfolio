@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/pete-windsor.jpg";
-import Tilt from "react-parallax-tilt";
+
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -52,9 +52,9 @@ function Home2() {
             </p>
           </Col>
           <Col md={4} className="myAvtar">
-            <Tilt>
+            np
               <img src={myImg} className="img-fluid borderRadius" alt="avatar" />
-            </Tilt>
+            
           </Col>
         </Row>
         <Row>
