@@ -8,6 +8,7 @@ import {
   DiJqueryLogo,
   DiGit,
   DiCss3Full,
+  DiHtml5,
   
 } from "react-icons/di";
 import { SiGatsby} from "react-icons/si";
@@ -47,6 +48,10 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiCss3Full />
         <p className="tech-desc">CSS</p>
+      </Col>
+       <Col xs={4} md={2} className="tech-icons">
+        <DiHtml5 />
+        <p className="tech-desc">HTML</p>
       </Col>
     </Row>
   );

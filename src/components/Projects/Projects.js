@@ -11,7 +11,7 @@ import dis from "../../Assets/Projects/disney-quiz-demo.gif";
 function Projects() {
   return (
     <Container fluid className="project-section">
-      <Particle />
+     
       <Container>
         <h1 className="project-heading">
           My latest <strong className="purple">Works </strong>

@@ -6,7 +6,10 @@ import {
   SiNetlify,
   SiPostman,
   SiHeroku,
+  SiFigma,
 } from "react-icons/si";
+
+import { IoLogoVercel, } from "react-icons/io5";
 
 function Toolstack() {
   return (
@@ -30,6 +33,14 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiHeroku />
         <p className="tech-desc">Heroku</p>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <IoLogoVercel />
+        <p className="tech-desc">Vercel</p>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFigma />
+        <p className="tech-desc">Figma</p>
       </Col>
     </Row>
   );
