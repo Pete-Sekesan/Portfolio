@@ -761,3 +761,7 @@ html {
 .source-btn{
   margin-top :1rem;
 }
+
+.tech-desc {
+  font-size:initial;
+}
