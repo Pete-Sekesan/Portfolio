@@ -5,10 +5,9 @@
     
   </a>
 
-  <h3 align="center">My Porfolio Site</h3>
+  <h3 align="center">My Portfolio Site</h3>
 
   <p align="center">
     Developed in React.js
     <br />
     <br />
-
