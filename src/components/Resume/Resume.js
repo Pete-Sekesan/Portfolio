@@ -42,7 +42,7 @@ function Resume() {
             <h3 className='resume-title'>Experience</h3>
             <Resumecontent
               title='Frontend UI Engineer [Black Lake Labs]'
-              date='May 2021 - Present'
+              date='May 2021 - September 2021'
               content={[
                 'Coded alongside lead developer to overhaul UI built with React in conjunction with Figma wireframes',
                 'Partner with Project Managers on new feature ideation and experiment design',
