@@ -41,6 +41,14 @@ function Resume() {
           <Col md={6} className='resume-left'>
             <h3 className='resume-title'>Experience</h3>
             <Resumecontent
+              title='Frontend UX Developer [Adelphi University]'
+              date='Nov 2021 - Present'
+              content={[
+                'Developed reusable custom component technologies using company logos yielding an increase in revenue and brand visibility',
+                'Partner with Project Managers on new feature ideation and experiment design',
+              ]}
+            />
+            <Resumecontent
               title='Frontend UI Engineer [Black Lake Labs]'
               date='May 2021 - September 2021'
               content={[
