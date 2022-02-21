@@ -49,7 +49,7 @@ function Resume() {
               ]}
             />
             <Resumecontent
-              title='Frontend UI Engineer [Black Lake Labs]'
+              title='Frontend Engineer [Black Lake Labs]'
               date='May 2021 - September 2021'
               content={[
                 'Coded alongside lead developer to overhaul UI built with React in conjunction with Figma wireframes',
