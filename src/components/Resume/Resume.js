@@ -45,7 +45,7 @@ function Resume() {
               date='Nov 2021 - Present'
               content={[
                 'Developed reusable custom component technologies using company logos yielding an increase in revenue and brand visibility',
-                'Partner with Project Managers on new feature ideation and experiment design',
+                'Maintained graphic standards and branding throughout the entire user experience',
               ]}
             />
             <Resumecontent
