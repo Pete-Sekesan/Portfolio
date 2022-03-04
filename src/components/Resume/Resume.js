@@ -46,6 +46,7 @@ function Resume() {
               content={[
                 'Developed reusable custom component technologies using company logos yielding an increase in revenue and brand visibility',
                 'Maintained graphic standards and branding throughout the entire user experience',
+                'Collaborated with compliance specialists to ensure widespread experience on accessibility standards & laws and code core components such as WCAG 2 . 0, WCAG 2.1, CVAA, ADA, Section 504, and Section 508 .',
               ]}
             />
             <Resumecontent
