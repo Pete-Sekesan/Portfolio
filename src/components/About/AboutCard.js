@@ -14,7 +14,8 @@ function AboutCard() {
             <span className='purple'>Peter Sekesan </span>
             and I'm from <span className='purple'> New York.</span>
             <br />I am a software engineer working as a Frontend UX Developer
-            for Adelphi University.
+            for Adelphi University's Digital Development and User Experience
+            team.
             <br />
             <br />
             In May of 2020, my career in Events Marketing and Management came to
