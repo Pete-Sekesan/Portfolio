@@ -4,7 +4,7 @@ import Button from 'react-bootstrap/Button';
 import Particle from '../Particle';
 import Resumecontent from './ResumeContent';
 //import axios from "axios";
-import pdf from '../../Assets/peterSekesanResumeV3.pdf';
+import pdf from '../../Assets/peterSekesanResumeMay2022.pdf';
 import { AiOutlineDownload } from 'react-icons/ai';
 
 function Resume() {
@@ -21,7 +21,7 @@ function Resume() {
   //       upadteSpojRank(res.data.message[0].spojRank);
   //       upadteHackerank(res.data.message[1].hackerrank);
   //       upadteCgpa(res.data.message[2].cgpa);
-  //       upadateSem(res.data.message[3].sem);
+  //       upadateSem(res.data.message[3].sem);ß
   //     })
   //     .catch((err) => {
   //       console.log(err);
