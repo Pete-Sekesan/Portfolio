@@ -8,6 +8,7 @@ import {
   SiHeroku,
   SiFigma,
   SiDocker,
+  SiXcode,
 } from 'react-icons/si';
 
 import { IoLogoVercel } from 'react-icons/io5';
@@ -30,6 +31,10 @@ function Toolstack() {
       <Col xs={4} md={2} className='tech-icons'>
         <SiDocker />
         <p className='tech-desc'>Docker</p>
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <SiXcode />
+        <p className='tech-desc'>XCode</p>
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <SiPostman />

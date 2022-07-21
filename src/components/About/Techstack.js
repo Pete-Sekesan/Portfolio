@@ -10,7 +10,7 @@ import {
   DiCss3Full,
   DiHtml5,
 } from 'react-icons/di';
-import { SiGatsby, SiPhp } from 'react-icons/si';
+import { SiPhp, SiSwift } from 'react-icons/si';
 
 function Techstack() {
   return (
@@ -32,16 +32,16 @@ function Techstack() {
         <p className='tech-desc'>PostgreSQL</p>
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
+        <SiSwift />
+        <p className='tech-desc'>Swift</p>
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
         <DiJqueryLogo />
         <p className='tech-desc'>jQuery</p>
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <DiGit />
         <p className='tech-desc'>Git</p>
-      </Col>
-      <Col xs={4} md={2} className='tech-icons'>
-        <SiGatsby />
-        <p className='tech-desc'>Gatsby</p>
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <DiCss3Full />
